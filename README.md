@@ -16,3 +16,4 @@ https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  release v0.5.0
 # Travis-CI integration 
 steps first Setup the TRAVIS > add repo > prepare .travis.yml >triggeing a build
 
+issus : the travis was not sussflly build first so made fail many times then i fix it the issus
