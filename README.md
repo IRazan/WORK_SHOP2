@@ -5,11 +5,11 @@ group project. First, integrating and running Travis CI in the GitHub project, a
 user interface page based on the detailed scenario.
 
 # Release 1
-https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  releas v0.1.0
+https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  release v0.1.0
 
 
 # Release 2
-https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  releas v0.5.0
+https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  release v0.5.0
 
 
 
