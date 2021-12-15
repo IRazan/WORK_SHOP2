@@ -8,7 +8,7 @@ user interface page based on the detailed scenario.
 https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  releas v0.1.0
 
 
-# Release 1
+# Release 2
 https://app.travis-ci.com/IRazan/WORK_SHOP2.svg?branch=master  releas v0.5.0
 
 
